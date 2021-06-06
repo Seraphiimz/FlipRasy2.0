@@ -1,2 +1,2 @@
-# FlipRasy2.0
+# FlipRasy
 Created with CodeSandbox
